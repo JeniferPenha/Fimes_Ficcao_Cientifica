@@ -32,4 +32,4 @@ Essa aplicação te convida a embarcar em uma aventura inesquecível através do
 
 ### Agradecimentos 
 
-Agradeço à Alura e ao Gemini pela oportunidade de criar este projeto. 
+Agradeço à Alura e ao Google Gemini pela oportunidade de criar este projeto. 
