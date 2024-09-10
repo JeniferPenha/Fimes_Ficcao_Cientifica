@@ -1,9 +1,7 @@
-##Desenvolvendo Filmes de ficção ciêntifica - Imerssão Dev com google Gemini
+##  Desvendando o Universo dos Filmes Ficção cienfifica - Imerssão Dev com google Gemini
 
-Deploy do meu projeto
+* **Deploy do meu projeto
 https://fimes-ficcao-cientifica.vercel.app/
-
-##  Desvendando o Universo dos Filmes Ficção cienfifica
 
 **Prepare-se para uma jornada épica pelo cosmos cinematográfico!** 
 
